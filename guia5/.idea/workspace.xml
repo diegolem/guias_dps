@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cacc4ac-48a5-4455-95f6-62998abf14c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/citas/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citas/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/debug/java/com/complementario/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/main/java/com/complementario/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/main/java/com/complementario/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario.xcodeproj/xcshareddata/xcschemes/complementario.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementarioTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementarioTests/complementarioTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guia4/ejercicio_comp/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../guia4/ejercicio_comp/.prettierrc.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yMirLmaSta2yvC1RMnmPQYfw4o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cacc4ac-48a5-4455-95f6-62998abf14c3" name="Default Changelist" comment="" />
+      <created>1632068055775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632068055775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
