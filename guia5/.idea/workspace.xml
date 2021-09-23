@@ -5,32 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cacc4ac-48a5-4455-95f6-62998abf14c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/citas/.expo-shared/assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/assets/adaptive-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/assets/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citas/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/debug/java/com/complementario/ReactNativeFlipper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/main/java/com/complementario/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/android/app/src/main/java/com/complementario/MainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario.xcodeproj/xcshareddata/xcschemes/complementario.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Images.xcassets/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementario/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementarioTests/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia3/complementario/ios/complementarioTests/complementarioTests.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../guia4/ejercicio_comp/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../guia4/ejercicio_comp/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_comple/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +56,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
