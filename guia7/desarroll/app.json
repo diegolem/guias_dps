@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "desarroll",
+    "slug": "desarroll",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "desarroll"
+}
